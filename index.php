@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="App/assets/css/bootstrap.min.css">
+
 <?php
 // Library loader
 require_once 'Lib/Livro/Core/ClassLoader.php';
