@@ -3,7 +3,7 @@ namespace Livro\Database;
 
 /**
  * Permite definição de critérios
- * @author Pablo Dall'Oglio
+ * @author Adriano Pequeno
  */
 class Criteria extends Expression
 {

@@ -5,7 +5,7 @@ use Exception;
 
 /**
  * Manipular coleções de objetos.
- * @author Pablo Dall'Oglio
+ * @author Adriano Pequeno
  */
 final class Repository
 {

@@ -5,7 +5,7 @@ use Livro\Log\Logger;
 
 /**
  * Fornece os métodos necessários manipular transações
- * @author Pablo Dall'Oglio
+ * @author Adriano Pequeno
  */
 final class Transaction
 {

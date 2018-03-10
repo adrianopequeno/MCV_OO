@@ -3,7 +3,7 @@ namespace Livro\Database;
 
 /**
  * Fornece uma interface abstrata para definição de algoritmos de LOG
- * @author Pablo Dall'Oglio
+ * @author Adriano Pequeno
  */
 abstract class Logger
 {
